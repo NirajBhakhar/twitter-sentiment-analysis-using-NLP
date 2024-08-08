@@ -1,1 +1,3 @@
+pandas==2.2.2
 nltk==3.8.1
+tfIdfInheritVectorizer==0.1
